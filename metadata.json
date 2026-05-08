@@ -1,0 +1,6 @@
+{
+  "name": "SkyGuard: Weather Forecast & Alert System",
+  "description": "Professional weather monitoring dashboard with real-time alerts, risk analysis, and visual forecasting. Built for logistics, agriculture, and event planning.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": []
+}
